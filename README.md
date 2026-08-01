@@ -89,9 +89,6 @@ The dashboard helps security analysts visualize process execution, parent-child 
 
 ![Processes](screenshots/top-processes.png)
 
-### Process Trend
-
-![Trend](screenshots/process-trend.png)
 
 ### Parent Processes
 
