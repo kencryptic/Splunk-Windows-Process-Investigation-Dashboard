@@ -1,0 +1,5 @@
+Project:
+Windows Process Investigation Dashboard
+
+Description:
+Developed a Splunk-based SOC dashboard to monitor Windows Process Creation events (Event ID 4688). Created SPL queries to analyze parent-child process relationships, process execution trends, PowerShell activity, command-line activity, and commonly abused Windows LOLBins. Built interactive dashboard panels to support endpoint monitoring and process investigation using Windows Security Event Logs.
